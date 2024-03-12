@@ -1,0 +1,37 @@
+[
+  {
+    "brand": "Rolex",
+    "name": "Submariner",
+    "model": "116610LN",
+    "id": "001",
+    "price": 9000
+  },
+  {
+    "brand": "Omega",
+    "name": "Speedmaster Professional",
+    "model": "311.30.42.30.01.005",
+    "id": "002",
+    "price": 5000
+  },
+  {
+    "brand": "Seiko",
+    "name": "Presage",
+    "model": "SPB127J1",
+    "id": "003",
+    "price": 600
+  },
+  {
+    "brand": "TAG Heuer",
+    "name": "Carrera",
+    "model": "CV2A1R.FC6235",
+    "id": "004",
+    "price": 3500
+  },
+  {
+    "brand": "Casio",
+    "name": "G-Shock",
+    "model": "GA2100-1A1",
+    "id": "005",
+    "price": 100
+  }
+]
